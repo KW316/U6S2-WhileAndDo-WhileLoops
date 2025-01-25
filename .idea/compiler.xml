@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="U6S2-WhileAndDo-WhileLoops" />
         <module name="U5S2-WhileAndDo-WhileLoops" />
       </profile>
     </annotationProcessing>
